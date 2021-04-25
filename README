@@ -1,0 +1,13 @@
+This repository contains Python code for the "python-api-challenge."
+
+There are two directories:
+
+1) WeatherPy
+2) VacationPy
+
+Each directory contains a jupyter notebook file with Python code.
+
+WeatherPy.ipynb uses custom functions to call weather data from the OpenWeather API.
+This file also contains plots based on the calls.
+
+VacationPy.ipynb uses the .csv output from WeatherPy.ipynb to plot humidity and select hotels based on specified weather conditions.
